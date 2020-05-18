@@ -1,19 +1,15 @@
 package loteria;
 
 import java.awt.Color;
-import java.awt.Component;
-import java.awt.Dimension;
+
 import java.awt.Font;
-import java.awt.LayoutManager;
 import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
 import javax.swing.*;
-import javax.swing.border.Border;
 
 public class loteria {
 	public static String numeros() {
